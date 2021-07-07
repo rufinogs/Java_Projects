@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"ast.rufinogs.alumnos"},{"l":"ast.rufinogs.alumnos.array"},{"l":"ast.rufinogs.alumnos.main"}]

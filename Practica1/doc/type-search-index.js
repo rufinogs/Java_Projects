@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ast.rufinogs.alumnos","l":"Alumno"},{"p":"ast.rufinogs.alumnos.array","l":"Array"},{"p":"ast.rufinogs.alumnos","l":"Erasmus"},{"p":"ast.rufinogs.alumnos.main","l":"Main"},{"p":"ast.rufinogs.alumnos","l":"Nuevo"},{"p":"ast.rufinogs.alumnos","l":"Repetidor"}]

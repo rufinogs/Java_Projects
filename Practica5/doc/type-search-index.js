@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"rufinogs.p5.act1.cliente","l":"ClienteUDP"},{"p":"rufinogs.p5.act2.cliente","l":"ClienteUDP"},{"p":"rufinogs.p5.act3.multicast","l":"Listener"},{"p":"rufinogs.p5.act3.multicast","l":"Multicast"},{"p":"rufinogs.p5.act1.servidor","l":"ServidorUDP"},{"p":"rufinogs.p5.act2.servidor","l":"ServidorUDP"}]

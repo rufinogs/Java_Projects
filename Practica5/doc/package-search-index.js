@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"rufinogs.p5.act1.cliente"},{"l":"rufinogs.p5.act1.servidor"},{"l":"rufinogs.p5.act2.cliente"},{"l":"rufinogs.p5.act2.servidor"},{"l":"rufinogs.p5.act3.multicast"}]

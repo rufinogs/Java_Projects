@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"rufinogs.p7.chat","l":"Chat"},{"p":"rufinogs.p7.chat","l":"Cliente"},{"p":"rufinogs.p7.chat","l":"InterfazChat"},{"p":"rufinogs.p7.chat","l":"Server"}]
